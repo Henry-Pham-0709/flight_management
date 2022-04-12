@@ -1,4 +1,4 @@
-package sait.frms.gui;
+package gui;
 
 import javax.swing.*;
 

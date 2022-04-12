@@ -1,11 +1,11 @@
-package sait.frms.manager;
+package manager;
 
 import java.io.*;
 import java.io.RandomAccessFile;
 import java.util.*;
 
-import sait.frms.exception.*;
-import sait.frms.problemdomain.*;
+import exception.*;
+import problemdomain.*;
 
 public class ReservationManager {
 	private ArrayList<Reservation> reservations = new ArrayList<>();

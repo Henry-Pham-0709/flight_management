@@ -1,4 +1,4 @@
-	package sait.frms.exception;
+	package exception;
 
 public class InvalidCitizenshipException extends Exception {
 	public InvalidCitizenshipException(String e) {

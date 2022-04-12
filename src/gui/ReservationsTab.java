@@ -1,4 +1,4 @@
-package sait.frms.gui;
+package gui;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -9,9 +9,9 @@ import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
-import sait.frms.exception.InvalidFlightCodeException;
-import sait.frms.manager.ReservationManager;
-import sait.frms.problemdomain.Reservation;
+import exception.InvalidFlightCodeException;
+import manager.ReservationManager;
+import problemdomain.Reservation;
 
 /**
  * Holds the components for the reservations tab.

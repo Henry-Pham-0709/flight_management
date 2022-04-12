@@ -1,4 +1,4 @@
-package sait.frms.problemdomain;
+package problemdomain;
 
 public class Reservation {
 	private String code;

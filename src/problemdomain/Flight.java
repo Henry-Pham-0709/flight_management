@@ -1,9 +1,9 @@
-package sait.frms.problemdomain;
+package problemdomain;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import sait.frms.exception.InvalidFlightCodeException;
+import exception.InvalidFlightCodeException;
 
 public class Flight {
 	private String code;

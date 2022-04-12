@@ -1,11 +1,11 @@
-package sait.frms.manager;
+package manager;
 
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
 
-import sait.frms.exception.InvalidFlightCodeException;
-import sait.frms.problemdomain.Flight;
+import exception.InvalidFlightCodeException;
+import problemdomain.Flight;
 
 public class FlightManager {
 	private ArrayList<Flight> flights = new ArrayList<>();

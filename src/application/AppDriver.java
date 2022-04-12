@@ -1,4 +1,4 @@
-package sait.frms.application;
+package application;
 
 /**
  * @author J.Pointer
@@ -7,8 +7,8 @@ package sait.frms.application;
  * @version 21/03/2022
  */
 
-import sait.frms.exception.InvalidFlightCodeException;
-import sait.frms.gui.MainWindow;
+import exception.InvalidFlightCodeException;
+import gui.MainWindow;
 
 import java.io.FileNotFoundException;
 

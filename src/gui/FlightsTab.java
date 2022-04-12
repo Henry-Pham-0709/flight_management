@@ -1,4 +1,4 @@
-package sait.frms.gui;
+package gui;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -8,10 +8,10 @@ import java.util.*;
 import javax.swing.*;
 import javax.swing.event.*;
 
-import sait.frms.exception.*;
-import sait.frms.manager.FlightManager;
-import sait.frms.manager.ReservationManager;
-import sait.frms.problemdomain.*;
+import exception.*;
+import manager.FlightManager;
+import manager.ReservationManager;
+import problemdomain.*;
 
 /**
  * Holds the components for the flights tab.
