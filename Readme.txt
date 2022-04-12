@@ -1,10 +1,5 @@
 ***Flight Management System***
 
-***********************************************************
-**Date: 18-March-2022					 				 **
-**Authors: Jacque Pointer, Huy Hoang Pham, Barsha Niroula**
-***********************************************************
-
 -------------------------------------------------------------------------------------------------------------------------------------------
 This is a system built for the purpose of helping travel agency manage flights and reservations. This system allows user to change, update
 information of flights from an external file with a graphical user interface. It also allows user to look for the flight route that they
